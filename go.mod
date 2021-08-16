@@ -1,4 +1,4 @@
-module github.com/tamihyo/bookstore_oauth-go
+module github.com/tamihyo/bookstore_users-go
 
 go 1.16
 
